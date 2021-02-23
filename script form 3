@@ -8,6 +8,25 @@
         <h1>
         Selamat datang dihalaman home
         </h1>
+        <table border="2" width="1080" height="720" cellpadding="10">
+            <tr>
+                <td align="center" >
+                    Reynald Fedhericco
+
+                </td>
+                
+            <tr>
+                <td align="center">
+                    10 RPL 1
+                    
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    16 Tahun
+                </td>
+            </tr>
+        </table>
         
 
     </body>
